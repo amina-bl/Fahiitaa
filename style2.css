@@ -1,0 +1,23 @@
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    #hpbd{
+        margin-bottom: 10px;
+    }
+  .button:hover { 
+      transform: none;
+    width: 200px !important;
+    margin: auto !important;
+    /* right: 0 !important; */
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    height: 5vh !important;
+ }
+ #buttontext{
+    font-size: 10px !important;
+
+ }
+ #background{
+     margin: auto !important;
+ }
+
+  }
